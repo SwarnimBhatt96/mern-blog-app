@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: lightcoral;
+}
+header a{
+    text-decoration: none;
+}
+header a.app-logo{
+    font-weight: bold;
+}
+header nav {
+    display: flex;
+    gap: 10px;
+}

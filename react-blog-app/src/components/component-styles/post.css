@@ -1,0 +1,17 @@
+.post {
+    .image>img {
+        width: 400px;
+    }
+
+    border: black solid 5px;
+    width: 400px;
+
+    .info-author {
+        display: flex;
+
+        div,
+        time {
+            padding: 10px;
+        }
+    }
+}
